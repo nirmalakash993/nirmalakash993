@@ -1,4 +1,5 @@
 ### Hi there 👋
+![bi-dashboard-for-website](https://github.com/nirmalakash993/nirmalakash993/assets/132489081/6b1b7716-cdb5-4a45-94da-d09f11f0f8df)
 
 <!--
 **nirmalakash993/nirmalakash993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
